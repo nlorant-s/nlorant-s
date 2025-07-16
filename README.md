@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="ascii-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="ascii-dark.png">
   <img src="ascii-light.png" alt="Niko Lorantos' Github Profile Art" width="200" align="left">
 </picture>
 <h2>Welcome to my GitHub!</h2>
