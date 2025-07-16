@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="ascii-dark.png">
-  <img src="ascii-light.png" alt="Niko Lorantos' Github Profile Art" width="250" align="left">
+  <img src="ascii-light.png" alt="Niko Lorantos' Github Profile Art" width="200" align="left">
 </picture>
 <h2>Welcome to my GitHub!</h2>
 <p>Here you can find some miscellaneous repositories I've contributed to and <a href="https://github.com/nlorant-s?tab=stars">starred</a>.</p>
